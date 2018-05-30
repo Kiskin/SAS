@@ -1,2 +1,2 @@
 # SAS
-These repository contain some sample SAS programs. 
+This repository contain some sample SAS programs. 
